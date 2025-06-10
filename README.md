@@ -60,4 +60,4 @@ Si deseas contribuir al proyecto, por favor crea un fork del repositorio y enví
 ## Contacto
 ------------
 
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme en [tu correo electrónico](vaglimatias@gmail.com).
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme en vaglimatias@gmail.com
